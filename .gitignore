@@ -1,0 +1,6 @@
+# files to exclude
+
+00_raw_data.csv	
+00_raw_val_data.csv
+00_file_metadata.pdf
+00_raw_data.csv
